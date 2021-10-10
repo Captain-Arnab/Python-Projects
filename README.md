@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Projects-QRCODE
 Projects related to python
 
 Here, in this project we can generate QRCODE of any text or website and vice versa.
