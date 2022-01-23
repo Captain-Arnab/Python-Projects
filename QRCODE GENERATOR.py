@@ -1,5 +1,3 @@
-import pyqrcode
-
-url = pyqrcode.create("HELLO WORLD!!")
-url.png("QRCODE.png",scale=20)
-
+import qrcode
+url = qrcode.make("HELLO WORLD!!")
+url.save('QRCODE.png')
