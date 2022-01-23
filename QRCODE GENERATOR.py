@@ -1,3 +1,3 @@
 import qrcode
-url = qrcode.make("HELLO WORLD!!")
+url = qrcode.make("www.youtube.com")
 url.save('QRCODE.png')
